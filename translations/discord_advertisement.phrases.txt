@@ -1,0 +1,30 @@
+"Phrases"
+
+{
+
+	"DisOnline"
+
+	{
+
+		"#format"	"{1:i},{2:s}"
+
+		"en"		"{GREEN}Online in Discord: {RED}{1}. {GREEN}Join us: {OLIVE}{2}"
+
+		"ru"		"{GREEN}Онлайн в Discord: {RED}{1}. {GREEN}Присоединяйтесь: {OLIVE}{2}"
+
+
+	}
+
+	"DisMax"
+
+	{
+		"#format"	"{1:i}"
+
+		"en"		"{LIME}[DISCORD] {GREEN}Members in Discord: {RED}{1}"
+
+		"ru"		"{LIME}[DISCORD] {GREEN} Юзеров в Discord: {RED}{1}"
+
+	}
+
+
+}

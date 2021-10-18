@@ -2,27 +2,16 @@
 
 {
 
-	"DisOnline"
+	"DisAdv"
 
 	{
 
-		"#format"	"{1:i},{2:s}"
+		"#format"	"{1:i},{2:i},{3:s}"
 
-		"en"		"{GREEN}Online in Discord: {RED}{1}. {GREEN}Join us: {OLIVE}{2}"
+		"en"		"{GREEN}Online in Discord: {RED}{1}. {GREEN}Total members: {RED}{2}. {GREEN}Join us: {OLIVE}https://discord.gg/{3}"
 
-		"ru"		"{GREEN}Онлайн в Discord: {RED}{1}. {GREEN}Присоединяйтесь: {OLIVE}{2}"
+		"ru"		"{GREEN}Онлайн в Discord: {RED}{1}. {GREEN}Всего участников: {RED}{2}{GREEN}Присоединяйтесь: {OLIVE}https://discord.gg/{3}"
 
-
-	}
-
-	"DisMax"
-
-	{
-		"#format"	"{1:i}"
-
-		"en"		"{LIME}[DISCORD] {GREEN}Members in Discord: {RED}{1}"
-
-		"ru"		"{LIME}[DISCORD] {GREEN} Юзеров в Discord: {RED}{1}"
 
 	}
 
